@@ -1,2 +1,2 @@
-# -Certificate_register_Metamask2
-검증프로세스_DB연동_수정중
+# Certificate_register_Metamask
+인증서 발급 시스템_메타마스크 연동
